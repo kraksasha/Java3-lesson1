@@ -4,4 +4,5 @@ public class Apple {
     public double getWeightApple() {
         return weightApple;
     }
+
 }

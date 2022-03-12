@@ -61,5 +61,6 @@ public class RunGenerick {
         box3.sprinkleFruit(box4);
         System.out.println(box4.getList());
     }
+
 }
 

@@ -30,4 +30,5 @@ public class GenerickTest<T> {
         }
         return list;
     }
+
 }
